@@ -1,0 +1,3 @@
+D:\kia prjc\tamrin\Saf_1\Saf_1\obj\Debug\Saf_1.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Saf_1\Saf_1\obj\Debug\Saf_1.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Saf_1\Saf_1\obj\Debug\Saf_1.csproj.CoreCompileInputs.cache
